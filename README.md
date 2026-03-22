@@ -1,5 +1,9 @@
 # Everything AI/ML
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viveknaskar.everything-ai-ml)
+[![License](https://img.shields.io/badge/license-Educational-blue.svg)](./LICENSE)
+[![Sponsor](https://img.shields.io/badge/Sponsor-viveknaskar-ea4aaa?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/viveknaskar)
+
 A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, and related topics.
 
 ## Table of Contents
