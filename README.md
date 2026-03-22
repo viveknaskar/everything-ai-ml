@@ -58,10 +58,16 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Time Series Analysis](https://otexts.com/fpp3/)
 - [Self-Supervised Learning](https://lilianweng.github.io/posts/2021-05-31-self-supervised-learning/)
 
+**Interactive Visualizations:**
+- [MLU-Explain](https://mlu-explain.github.io) — Interactive visual explanations of core ML concepts
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/) — In-browser interactive explainer for Convolutional Neural Networks
+- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) — Interactive visualization of the Transformer architecture
+
 ---
 
 ## AI/ML Building Blocks
 
+- [Mathematics for Machine Learning - Garrett Thomas (UC Berkeley)](https://gwthomas.github.io/docs/math4ml.pdf) — Concise reference covering Linear Algebra, Calculus & Optimization, and Probability for ML
 - [Linear Algebra for ML - MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [Probability & Statistics - Stanford](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
 - [Calculus for Optimization - Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
@@ -128,6 +134,10 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 **Recommended Talks:**
 - [Andrej Karpathy - How I Use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 - [Andrej Karpathy - Intro to Large Language Models (1hr Talk)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+
+**Visual Explainers:**
+- [The Illustrated Transformer - Jay Alammar](http://jalammar.github.io/illustrated-transformer/) — Definitive visual guide to the Transformer architecture
+- [3D Visualization of LLMs - Brendan Bycroft](http://bbycroft.net/llm) — Step-by-step 3D walkthrough of transformer execution
 
 **Learning Paths:**
 - [Beginner: Introduction to Generative AI - Google Skills](https://www.cloudskillsboost.google/paths/118)
@@ -208,6 +218,8 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 - Agentic AI Development Prerequisites
 - Session 6 - Advanced Agentic AI and Multi-Agent Systems
+- [Introduction to Agent2Agent (A2A) Protocol - Google Cloud Tech](https://www.youtube.com/watch?v=Fbr_Solax1w)
+- [AI Agents Series - FuturMinds (YouTube Playlist)](https://www.youtube.com/playlist?list=PL51gEhIbWzJESLuGJUGkG2VZzrPO0H0Rc)
 - [Evaluating AI Agents - DeepLearning.AI](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/)
 - [LLMs as Operating Systems: Agent Memory - DeepLearning.AI](https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/)
 - [AI Agents in LangGraph - DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
@@ -331,12 +343,14 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ## Books
 
+- [Hands-On Large Language Models - Jay Alammar & Maarten Grootendorst](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) — [GitHub (notebooks)](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [AI Engineering: Building Applications with Foundational Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 - [Introduction to Machine Learning Interviews - Chip Huyen](https://huyenchip.com/ml-interviews-book/)
 - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [Deep Learning (Goodfellow, Bengio, Courville)](https://www.deeplearningbook.org/)
+- [Patterns, Predictions, and Actions - Hardt & Recht (Princeton University Press)](https://mlstory.org/pdf/patterns.pdf) — Free textbook covering supervised learning, deep learning, causal inference, and reinforcement learning
 
 ---
 
@@ -351,12 +365,16 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531)
 - [OpenAI Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
+**Research Discovery Tools:**
+- [Ai2 Asta](https://asta.allen.ai) — Agentic research assistant by Allen Institute for AI; discovers and synthesizes literature across 200M+ papers with traceable citations
+
 ---
 
 ## Tools and Frameworks
 
 - [PyTorch](https://www.youtube.com/watch?v=V_xro1bcAuA)
 - [TensorFlow](https://www.youtube.com/watch?v=tPYj3fFJGjk)
+- [TensorFlow Playground](https://playground.tensorflow.org) — Browser-based neural network experimentation tool
 - [Scikit-Learn](https://scikit-learn.org/stable/getting_started.html)
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 - [Keras](https://keras.io/getting_started/)
@@ -431,6 +449,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Introduction to Machine Learning Interviews - Chip Huyen](https://huyenchip.com/ml-interviews-book/)
 - [ML Interviews MVP - GitHub](https://github.com/khangich/machine-learning-interview)
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+- [ML System Design: 650 Case Studies - GitHub](https://github.com/mallahyari/ml-practical-usecases) — Real-world ML use cases from 100+ companies including Netflix, Airbnb, and Uber
 
 ---
 
