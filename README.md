@@ -6,6 +6,8 @@
 
 A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, and related topics.
 
+> Stay updated with the latest in AI — [SavvyMonk Newsletter](https://savvymonk.beehiiv.com/)
+
 ## Table of Contents
 
 - [AI/ML Key Concepts](#aiml-key-concepts)
@@ -22,13 +24,12 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Security](#security)
 - [Google Cloud AI and ML](#google-cloud-ai-and-ml)
 - [AI Cost Optimization](#ai-cost-optimization)
-- [Conference Summaries](#conference-summaries)
 - [OWASP Top 10 for LLM Applications](#owasp-top-10-for-llm-applications)
 - [Adopting GenAI in Organizations](#adopting-genai-in-organizations)
-- [Coming Innovations in LLMs and GenAI](#coming-innovations-in-llms-and-genai)
 - [AI Tools for Productivity](#ai-tools-for-productivity)
 - [Quantum Computing and PQC](#quantum-computing-and-pqc)
 - [AI Augmented SDLC](#ai-augmented-sdlc)
+- [Coming Innovations in LLMs and GenAI](#coming-innovations-in-llms-and-genai)
 - [Courses](#courses)
 - [Certifications](#certifications)
 - [Books](#books)
@@ -67,8 +68,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ## AI/ML Building Blocks
 
-- [Mathematics for Machine Learning - Garrett Thomas (UC Berkeley)](https://gwthomas.github.io/docs/math4ml.pdf) — Concise reference covering Linear Algebra, Calculus & Optimization, and Probability for ML
-- [Linear Algebra for ML - MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [Mathematics for Machine Learning - Garrett Thomas (UC Berkeley)](https://gwthomas.github.io/docs/math4ml.pdf)- [Linear Algebra for ML - MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [Probability & Statistics - Stanford](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
 - [Calculus for Optimization - Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
 - [Python for ML - Coursera](https://www.coursera.org/learn/ai-python-for-beginners)
@@ -125,12 +125,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ## Generative AI - General
 
-**Core Sessions:**
-- Session 1 - AI, ML, DL, GenAI: An Overview
-- Session 2 - Local Environment Setup for Python and ML/GenAI in Google Cloud
-- Session 3 - Generative AI, LLMs and Prompt Engineering
-- Session 4 - GenAI Apps with RAG
-
 **Recommended Talks:**
 - [Andrej Karpathy - How I Use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 - [Andrej Karpathy - Intro to Large Language Models (1hr Talk)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
@@ -154,9 +148,17 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ## Generative AI - Advanced
 
-- Session 5 - Advanced GenAI Concepts: Fine-tuning, Tools, Frameworks
-- Session 7 - Advanced Concepts: Gemini 2.5, Google ADK
-- Session 8 - Advanced Agentic AI: MCP, A2A, Agent Space
+**Gemini:**
+- [Large Multimodal Model Prompting with Gemini - DeepLearning.AI](https://www.deeplearning.ai/short-courses/large-multimodal-model-prompting-with-gemini/)
+- [Gemini for Application Developers - Coursera (Google Cloud)](https://www.coursera.org/learn/gemini-for-application-developers)
+- [Gemini CLI: Code & Create with an Open-Source Agent - DeepLearning.AI](https://www.deeplearning.ai/short-courses/gemini-cli-code-and-create-with-an-open-source-agent/)
+
+**Google ADK:**
+- [Building Live Voice Agents with Google's ADK - DeepLearning.AI](https://learn.deeplearning.ai/courses/building-live-voice-agents-with-googles-adk/information)
+- [Understand Google Cloud Agents - Coursera](https://www.coursera.org/learn/understand-google-cloud-agents)
+
+**Model Context Protocol (MCP):**
+- [Intro to Model Context Protocol (MCP) - Coursera (Scrimba)](https://www.coursera.org/learn/intro-to-model-context-protocol-mcp)
 
 ---
 
@@ -180,6 +182,8 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 ## Fine-tuning
 
 - [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+- [Generative AI Advanced Fine-Tuning for LLMs - Coursera (IBM)](https://www.coursera.org/learn/generative-ai-advanced-fine-tuning-for-llms)
+- [Fine-tuning & RL for LLMs: Intro to Post-Training - DeepLearning.AI](https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training/)
 
 ---
 
@@ -196,7 +200,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [GitHub - langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 - [LangGraph Tutorials](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
 - [AI Agents in LangGraph - DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
-- Foundation: Introduction to LangGraph - Python
 
 ### CrewAI
 - [GitHub - crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
@@ -216,8 +219,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ## Agentic AI
 
-- Agentic AI Development Prerequisites
-- Session 6 - Advanced Agentic AI and Multi-Agent Systems
 - [Introduction to Agent2Agent (A2A) Protocol - Google Cloud Tech](https://www.youtube.com/watch?v=Fbr_Solax1w)
 - [AI Agents Series - FuturMinds (YouTube Playlist)](https://www.youtube.com/playlist?list=PL51gEhIbWzJESLuGJUGkG2VZzrPO0H0Rc)
 - [Evaluating AI Agents - DeepLearning.AI](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/)
@@ -271,14 +272,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ---
 
-## Conference Summaries
-
-- Google Cloud Next 2025 Summary
-- Google I/O 2025 Summary
-- Microsoft Build 2025 Summary
-
----
-
 ## OWASP Top 10 for LLM Applications
 
 - [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
@@ -287,34 +280,38 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ## Adopting GenAI in Organizations
 
-- Agentic AI Development Prerequisites
-- Steps for Adopting LLM Applications to an Organization
-
----
-
-## Coming Innovations in LLMs and GenAI
-
-- Quantum ML (QML) and Generative Quantum AI (GenQAI)
-- Understanding JEPA: A Paradigm Shift Beyond LLMs (Meta)
-- [Google DeepMind Paper on Responsible AGI](https://deepmind.google/discover/blog/)
+- [Generative AI for Executives and Business Leaders Specialization - Coursera (IBM)](https://www.coursera.org/specializations/generative-ai-for-executives-and-business-leaders)
+- [GenAI for Execs & Business Leaders: Integration Strategy - Coursera (IBM)](https://www.coursera.org/learn/generative-ai-for-executives-and-business-leaders-integration-strategy)
+- [GenAI for Everyone - Coursera (DeepLearning.AI)](https://www.coursera.org/learn/genai-for-everyone)
 
 ---
 
 ## AI Tools for Productivity
 
-- Top AI Tools for Productivity (curated list)
+- [Maximize Productivity with AI Tools - Coursera (Google)](https://www.coursera.org/learn/google-maximize-productivity-with-ai-tools)
+- [Google AI Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/google-ai)
+- [Microsoft 365 Copilot for Productivity - Coursera (Microsoft)](https://www.coursera.org/professional-certificates/microsoft-365-copilot-for-productivity)
 
 ---
 
 ## Quantum Computing and PQC
 
-- Quantum Computing and Post-Quantum Cryptography (PQC)
+- [Introduction to Post-Quantum Cryptography - edX (UMBC)](https://www.edx.org/learn/computer-science/university-system-of-maryland-introduction-to-post-quantum-cryptography)
+- [Practical Introduction to Quantum-Safe Cryptography - IBM Quantum Learning](https://learning.quantum.ibm.com/course/practical-introduction-to-quantum-safe-cryptography/quantum-safe-cryptography)
 
 ---
 
 ## AI Augmented SDLC
 
-- AI Augmented SDLC for IT Organizations
+- [Generative AI for Software Development Specialization - DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-for-software-development/)
+- [AI-Powered Software Development - Coursera](https://www.coursera.org/specializations/ai-powered-software-development-certification)
+- [GitHub Copilot Fundamentals - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/copilot/)
+
+---
+
+## Coming Innovations in LLMs and GenAI
+
+- [Google DeepMind Blog](https://deepmind.google/discover/blog/)
 
 ---
 
