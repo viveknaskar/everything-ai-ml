@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0d14"/>
+      <stop offset="100%" stop-color="#13131f"/>
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e2e8f0"/>
+      <stop offset="45%" stop-color="#a5b4fc"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+
+    <radialGradient id="brainGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="strongGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Left lobe clip -->
+    <clipPath id="clipL">
+      <path d="M 250 125 C 238 117,218 115,198 121 C 176 129,158 148,148 172 C 138 197,140 226,152 250 C 164 272,184 284,208 288 C 226 292,242 288,250 282 Z"/>
+    </clipPath>
+
+    <!-- Right lobe clip -->
+    <clipPath id="clipR">
+      <path d="M 250 125 C 262 117,282 115,302 121 C 324 129,342 148,352 172 C 362 197,360 226,348 250 C 336 272,316 284,292 288 C 274 292,258 288,250 282 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="500" height="500" rx="64" fill="url(#bgGrad)"/>
+  <rect width="500" height="500" rx="64" fill="none" stroke="url(#accentGrad)" stroke-width="1.5" opacity="0.35"/>
+
+  <!-- Ambient glow behind brain -->
+  <ellipse cx="250" cy="204" rx="170" ry="128" fill="url(#brainGlow)"/>
+
+  <!-- ── LEFT LOBE ── -->
+  <path d="M 250 125 C 238 117,218 115,198 121 C 176 129,158 148,148 172 C 138 197,140 226,152 250 C 164 272,184 284,208 288 C 226 292,242 288,250 282 Z"
+    fill="#15152a" stroke="url(#accentGrad)" stroke-width="2.5" filter="url(#glow)"/>
+
+  <!-- Circuit grid inside LEFT lobe -->
+  <g clip-path="url(#clipL)" opacity="1">
+    <!-- Horizontal traces -->
+    <line x1="148" y1="162" x2="248" y2="162" stroke="#6366f1" stroke-width="1.4" opacity="0.55"/>
+    <line x1="141" y1="186" x2="248" y2="186" stroke="#6366f1" stroke-width="1.4" opacity="0.55"/>
+    <line x1="140" y1="210" x2="248" y2="210" stroke="#6366f1" stroke-width="1.4" opacity="0.55"/>
+    <line x1="144" y1="234" x2="248" y2="234" stroke="#6366f1" stroke-width="1.4" opacity="0.55"/>
+    <line x1="156" y1="258" x2="248" y2="258" stroke="#6366f1" stroke-width="1.4" opacity="0.55"/>
+
+    <!-- Vertical traces -->
+    <line x1="168" y1="132" x2="168" y2="288" stroke="#818cf8" stroke-width="1.4" opacity="0.45"/>
+    <line x1="190" y1="122" x2="190" y2="288" stroke="#818cf8" stroke-width="1.4" opacity="0.45"/>
+    <line x1="212" y1="120" x2="212" y2="288" stroke="#818cf8" stroke-width="1.4" opacity="0.45"/>
+    <line x1="232" y1="120" x2="232" y2="288" stroke="#818cf8" stroke-width="1.4" opacity="0.45"/>
+
+    <!-- Circuit pad nodes at intersections -->
+    <rect x="165" y="159" width="6" height="6" rx="1" fill="#818cf8"/>
+    <rect x="187" y="159" width="6" height="6" rx="1" fill="#818cf8"/>
+    <rect x="209" y="159" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="229" y="159" width="6" height="6" rx="1" fill="#818cf8"/>
+
+    <rect x="165" y="183" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="187" y="183" width="6" height="6" rx="1" fill="#60a5fa"/>
+    <rect x="209" y="183" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="229" y="183" width="6" height="6" rx="1" fill="#818cf8"/>
+
+    <rect x="165" y="207" width="6" height="6" rx="1" fill="#818cf8"/>
+    <rect x="187" y="207" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="209" y="207" width="6" height="6" rx="1" fill="#818cf8"/>
+    <rect x="229" y="207" width="6" height="6" rx="1" fill="#60a5fa"/>
+
+    <rect x="165" y="231" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="187" y="231" width="6" height="6" rx="1" fill="#818cf8"/>
+    <rect x="209" y="231" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="229" y="231" width="6" height="6" rx="1" fill="#818cf8"/>
+
+    <!-- Mini CPU chip, left lobe -->
+    <rect x="176" y="196" width="36" height="28" rx="4" fill="none" stroke="#818cf8" stroke-width="1.8" opacity="0.8"/>
+    <rect x="180" y="200" width="28" height="20" rx="2" fill="#6366f1" opacity="0.18"/>
+    <line x1="176" y1="202" x2="170" y2="202" stroke="#818cf8" stroke-width="1.5"/>
+    <line x1="176" y1="210" x2="170" y2="210" stroke="#818cf8" stroke-width="1.5"/>
+    <line x1="176" y1="218" x2="170" y2="218" stroke="#818cf8" stroke-width="1.5"/>
+    <line x1="212" y1="202" x2="218" y2="202" stroke="#818cf8" stroke-width="1.5"/>
+    <line x1="212" y1="210" x2="218" y2="210" stroke="#818cf8" stroke-width="1.5"/>
+    <line x1="212" y1="218" x2="218" y2="218" stroke="#818cf8" stroke-width="1.5"/>
+    <line x1="185" y1="196" x2="185" y2="190" stroke="#818cf8" stroke-width="1.5"/>
+    <line x1="194" y1="196" x2="194" y2="190" stroke="#818cf8" stroke-width="1.5"/>
+    <line x1="203" y1="196" x2="203" y2="190" stroke="#818cf8" stroke-width="1.5"/>
+  </g>
+
+  <!-- ── RIGHT LOBE ── -->
+  <path d="M 250 125 C 262 117,282 115,302 121 C 324 129,342 148,352 172 C 362 197,360 226,348 250 C 336 272,316 284,292 288 C 274 292,258 288,250 282 Z"
+    fill="#15152a" stroke="url(#accentGrad)" stroke-width="2.5" filter="url(#glow)"/>
+
+  <!-- Circuit grid inside RIGHT lobe -->
+  <g clip-path="url(#clipR)" opacity="1">
+    <!-- Horizontal traces -->
+    <line x1="252" y1="162" x2="352" y2="162" stroke="#6366f1" stroke-width="1.4" opacity="0.55"/>
+    <line x1="252" y1="186" x2="359" y2="186" stroke="#6366f1" stroke-width="1.4" opacity="0.55"/>
+    <line x1="252" y1="210" x2="360" y2="210" stroke="#6366f1" stroke-width="1.4" opacity="0.55"/>
+    <line x1="252" y1="234" x2="356" y2="234" stroke="#6366f1" stroke-width="1.4" opacity="0.55"/>
+    <line x1="252" y1="258" x2="344" y2="258" stroke="#6366f1" stroke-width="1.4" opacity="0.55"/>
+
+    <!-- Vertical traces -->
+    <line x1="268" y1="120" x2="268" y2="288" stroke="#818cf8" stroke-width="1.4" opacity="0.45"/>
+    <line x1="288" y1="120" x2="288" y2="288" stroke="#818cf8" stroke-width="1.4" opacity="0.45"/>
+    <line x1="310" y1="122" x2="310" y2="288" stroke="#818cf8" stroke-width="1.4" opacity="0.45"/>
+    <line x1="332" y1="132" x2="332" y2="288" stroke="#818cf8" stroke-width="1.4" opacity="0.45"/>
+
+    <!-- Circuit pad nodes -->
+    <rect x="265" y="159" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="285" y="159" width="6" height="6" rx="1" fill="#818cf8"/>
+    <rect x="307" y="159" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="329" y="159" width="6" height="6" rx="1" fill="#818cf8"/>
+
+    <rect x="265" y="183" width="6" height="6" rx="1" fill="#818cf8"/>
+    <rect x="285" y="183" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="307" y="183" width="6" height="6" rx="1" fill="#60a5fa"/>
+    <rect x="329" y="183" width="6" height="6" rx="1" fill="#a78bfa"/>
+
+    <rect x="265" y="207" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="285" y="207" width="6" height="6" rx="1" fill="#818cf8"/>
+    <rect x="307" y="207" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="329" y="207" width="6" height="6" rx="1" fill="#818cf8"/>
+
+    <rect x="265" y="231" width="6" height="6" rx="1" fill="#818cf8"/>
+    <rect x="285" y="231" width="6" height="6" rx="1" fill="#a78bfa"/>
+    <rect x="307" y="231" width="6" height="6" rx="1" fill="#818cf8"/>
+    <rect x="329" y="231" width="6" height="6" rx="1" fill="#60a5fa"/>
+
+    <!-- Mini CPU chip, right lobe (mirrored) -->
+    <rect x="288" y="196" width="36" height="28" rx="4" fill="none" stroke="#a78bfa" stroke-width="1.8" opacity="0.8"/>
+    <rect x="292" y="200" width="28" height="20" rx="2" fill="#6366f1" opacity="0.18"/>
+    <line x1="288" y1="202" x2="282" y2="202" stroke="#a78bfa" stroke-width="1.5"/>
+    <line x1="288" y1="210" x2="282" y2="210" stroke="#a78bfa" stroke-width="1.5"/>
+    <line x1="288" y1="218" x2="282" y2="218" stroke="#a78bfa" stroke-width="1.5"/>
+    <line x1="324" y1="202" x2="330" y2="202" stroke="#a78bfa" stroke-width="1.5"/>
+    <line x1="324" y1="210" x2="330" y2="210" stroke="#a78bfa" stroke-width="1.5"/>
+    <line x1="324" y1="218" x2="330" y2="218" stroke="#a78bfa" stroke-width="1.5"/>
+    <line x1="297" y1="196" x2="297" y2="190" stroke="#a78bfa" stroke-width="1.5"/>
+    <line x1="306" y1="196" x2="306" y2="190" stroke="#a78bfa" stroke-width="1.5"/>
+    <line x1="315" y1="196" x2="315" y2="190" stroke="#a78bfa" stroke-width="1.5"/>
+  </g>
+
+  <!-- Center fissure (divider line) -->
+  <line x1="250" y1="128" x2="250" y2="280" stroke="#a78bfa" stroke-width="2" stroke-dasharray="5,4" opacity="0.55" filter="url(#glow)"/>
+
+  <!-- Center glowing spine nodes -->
+  <circle cx="250" cy="150" r="5"  fill="#818cf8" filter="url(#strongGlow)"/>
+  <circle cx="250" cy="204" r="7"  fill="#a78bfa" filter="url(#strongGlow)"/>
+  <circle cx="250" cy="258" r="5"  fill="#60a5fa" filter="url(#strongGlow)"/>
+
+  <!-- ── TEXT ── -->
+
+  <!-- Divider line above text -->
+  <line x1="80" y1="322" x2="420" y2="322" stroke="url(#accentGrad)" stroke-width="1" opacity="0.3"/>
+
+  <!-- Main title — two lines for maximum readability -->
+  <text
+    x="250" y="372"
+    text-anchor="middle"
+    font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif"
+    font-size="52"
+    font-weight="800"
+    fill="url(#textGrad)"
+    filter="url(#glow)"
+    letter-spacing="-1"
+  >Everything</text>
+
+  <text
+    x="250" y="432"
+    text-anchor="middle"
+    font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif"
+    font-size="52"
+    font-weight="800"
+    fill="url(#accentGrad)"
+    filter="url(#strongGlow)"
+    letter-spacing="2"
+  >AI / ML</text>
+
+</svg>
