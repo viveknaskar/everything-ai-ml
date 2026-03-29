@@ -181,6 +181,16 @@ export default function Home() {
               >
                 Contribute
               </a>
+              {" · "}
+              <a
+                href="https://github.com/viveknaskar/everything-ai-ml/blob/main/LICENSE"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:underline"
+                style={{ color: "#818cf8" }}
+              >
+                MIT License
+              </a>
             </p>
           </footer>
         </main>

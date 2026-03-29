@@ -1,7 +1,7 @@
 # Everything AI/ML
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viveknaskar.everything-ai-ml)
-[![License](https://img.shields.io/badge/license-Educational-blue.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![Sponsor](https://img.shields.io/badge/Sponsor-viveknaskar-ea4aaa?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/viveknaskar)
 [![Live Site](https://img.shields.io/badge/Live%20Site-everything--ai--ml-6366f1?logo=github&logoColor=white)](https://viveknaskar.github.io/everything-ai-ml/)
 
