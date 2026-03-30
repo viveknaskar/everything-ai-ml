@@ -115,6 +115,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
     - [Deep RL Course - Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
     - [Computer Vision - Kaggle](https://www.kaggle.com/learn/computer-vision)
     - [Deep Learning - CS231n Stanford](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ)
+    - [Computer vision, LLM, VLM Courses - PixelBank](https://pixelbank.dev)
 
 6. **Learn MLOps**
     - [Intro to MLOps](https://ml-ops.org/)
@@ -242,6 +243,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [GenAIOps: Operationalize Generative AI (YouTube)](https://www.youtube.com/watch?v=UfUoG_Ijgq4)
 - [MLOps.org](https://ml-ops.org/)
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
+- [Systems & Networking for AI engineers - PixelBank](https://pixelbank.dev/systems)
 
 ---
 
@@ -329,6 +331,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [NLP with Deep Learning - Stanford CS224n](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
 - [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/)
+- [CV, LLM, VLM Courses - PixelBank](https://pixelbank.dev)
 
 ---
 
@@ -450,6 +453,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [ML Interviews MVP - GitHub](https://github.com/khangich/machine-learning-interview)
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [ML System Design: 650 Case Studies - GitHub](https://github.com/mallahyari/ml-practical-usecases) — Real-world ML use cases from 100+ companies including Netflix, Airbnb, and Uber
+- [ML Coding questions - PixelBank](https://pixelbank.dev/collections)
 
 ---
 
