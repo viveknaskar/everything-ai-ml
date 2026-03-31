@@ -114,6 +114,7 @@ export const sections: Section[] = [
           { title: "Deep RL Course – Hugging Face", url: "https://huggingface.co/learn/deep-rl-course/unit0/introduction" },
           { title: "Computer Vision – Kaggle", url: "https://www.kaggle.com/learn/computer-vision" },
           { title: "Deep Learning – CS231n Stanford", url: "https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ" },
+          { title: "Computer Vision, LLM, VLM Courses – PixelBank", url: "https://pixelbank.dev" },
         ],
       },
       {
@@ -302,6 +303,7 @@ export const sections: Section[] = [
       { title: "GenAIOps: Operationalize Generative AI (YouTube)", url: "https://www.youtube.com/watch?v=UfUoG_Ijgq4" },
       { title: "MLOps.org", url: "https://ml-ops.org/" },
       { title: "Full Stack Deep Learning", url: "https://fullstackdeeplearning.com/course/2022/" },
+      { title: "Systems & Networking for AI Engineers – PixelBank", url: "https://pixelbank.dev/systems" },
     ],
   },
   {
@@ -405,6 +407,7 @@ export const sections: Section[] = [
       { title: "RL Course by David Silver", url: "https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ" },
       { title: "NLP with Deep Learning – Stanford CS224n", url: "https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4" },
       { title: "Practical Deep Learning for Coders – fast.ai", url: "https://course.fast.ai/" },
+      { title: "CV, LLM, VLM Courses – PixelBank", url: "https://pixelbank.dev" },
     ],
   },
   {
@@ -561,6 +564,7 @@ export const sections: Section[] = [
       { title: "ML Interviews MVP – GitHub", url: "https://github.com/khangich/machine-learning-interview" },
       { title: "Designing Machine Learning Systems", url: "https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/" },
       { title: "ML System Design: 650 Case Studies – GitHub", url: "https://github.com/mallahyari/ml-practical-usecases", description: "Real-world ML use cases from 100+ companies including Netflix, Airbnb, and Uber" },
+      { title: "ML Coding Questions – PixelBank", url: "https://pixelbank.dev/collections" },
     ],
   },
 ];
