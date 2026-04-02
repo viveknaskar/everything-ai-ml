@@ -283,7 +283,8 @@ export const sections: Section[] = [
     title: "Agentic AI",
     icon: "🤖",
     resources: [
-      { title: "Introduction to Agent2Agent (A2A) Protocol – Google Cloud", url: "https://www.youtube.com/watch?v=Fbr_Solax1w", badge: "NEW" },
+      { title: "Agent Skills – Open Standard for Extending AI Agent Capabilities", url: "https://agentskills.io/home", description: "Open standard for building reusable skills that extend AI agents across 30+ platforms including Claude, GitHub Copilot, and OpenAI Codex", badge: "NEW" },
+      { title: "Introduction to Agent2Agent (A2A) Protocol – Google Cloud", url: "https://www.youtube.com/watch?v=Fbr_Solax1w" },
       { title: "AI Agents Series – FuturMinds (YouTube Playlist)", url: "https://www.youtube.com/playlist?list=PL51gEhIbWzJESLuGJUGkG2VZzrPO0H0Rc" },
       { title: "Evaluating AI Agents – DeepLearning.AI", url: "https://www.deeplearning.ai/short-courses/evaluating-ai-agents/" },
       { title: "LLMs as Operating Systems: Agent Memory – DeepLearning.AI", url: "https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/" },
