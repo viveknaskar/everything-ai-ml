@@ -38,7 +38,7 @@ export default function Header({ onSearch }: HeaderProps) {
           href="/"
           className="flex items-center gap-2 shrink-0 group"
         >
-          <span className="text-2xl">🤖</span>
+          <img src="/logo.png" alt="Everything AI/ML logo" className="w-8 h-8 object-contain" />
           <div className="hidden sm:block">
             <div
               className="font-bold text-base leading-tight"

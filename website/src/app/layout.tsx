@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     "A curated cheatsheet of learning resources for Generative AI, Machine Learning, Agentic AI, Prompt Engineering, RAG, Fine-tuning, and more.",
   icons: {
-    icon: `${basePath}/favicon.svg`,
+    icon: `${basePath}/logo.png`,
   },
   openGraph: {
     title: "Everything AI/ML",
