@@ -2,6 +2,8 @@
 
 import { useState, useCallback } from "react";
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 interface HeaderProps {
   onSearch: (query: string) => void;
 }
@@ -38,7 +40,7 @@ export default function Header({ onSearch }: HeaderProps) {
           href="/"
           className="flex items-center gap-2 shrink-0 group"
         >
-          <img src="/logo.png" alt="Everything AI/ML logo" className="w-8 h-8 object-contain" />
+          <img src={`${basePath}/logo.png`} alt="Everything AI/ML logo" className="w-8 h-8 object-contain" />
           <div className="hidden sm:block">
             <div
               className="font-bold text-base leading-tight"
