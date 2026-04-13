@@ -472,6 +472,7 @@ export const sections: Section[] = [
       { title: "XGBoost", url: "https://xgboost.readthedocs.io/en/latest/" },
       { title: "Keras", url: "https://keras.io/getting_started/" },
       { title: "Whisper – OpenAI", url: "https://github.com/openai/whisper" },
+      { title: "Can I Run AI?", url: "https://www.canirun.ai/", description: "Check if your hardware can run AI models locally" },
     ],
   },
   {
