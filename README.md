@@ -72,7 +72,8 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ## AI/ML Building Blocks
 
-- [Mathematics for Machine Learning - Garrett Thomas (UC Berkeley)](https://gwthomas.github.io/docs/math4ml.pdf)- [Linear Algebra for ML - MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [Mathematics for Machine Learning - Garrett Thomas (UC Berkeley)](https://gwthomas.github.io/docs/math4ml.pdf)
+- [Linear Algebra for ML - MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [Probability & Statistics - Stanford](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
 - [Calculus for Optimization - Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
 - [Python for ML - Coursera](https://www.coursera.org/learn/ai-python-for-beginners)
@@ -234,7 +235,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Functions, Tools and Agents with LangChain - DeepLearning.AI](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
 - [Building Agentic RAG with LlamaIndex - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)
 - [Event-Driven Agentic Document Workflows - DeepLearning.AI](https://www.deeplearning.ai/short-courses/event-driven-agentic-document-workflows/)
-- [AI Agents Fundamentals In 21 Minutes (YouTube)](https://www.youtube.com/results?search_query=AI+Agents+Fundamentals+In+21+Minutes)
+- [AI Agents Fundamentals In 21 Minutes (YouTube)](https://www.youtube.com/watch?v=qU3fmidNbJE)
 
 ---
 
