@@ -28,7 +28,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Security](#security)
 - [Google Cloud AI and ML](#google-cloud-ai-and-ml)
 - [AI Cost Optimization](#ai-cost-optimization)
-- [OWASP Top 10 for LLM Applications](#owasp-top-10-for-llm-applications)
 - [Adopting GenAI in Organizations](#adopting-genai-in-organizations)
 - [AI Tools for Productivity](#ai-tools-for-productivity)
 - [Quantum Computing and PQC](#quantum-computing-and-pqc)
@@ -229,11 +228,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [AI Agents Series - FuturMinds (YouTube Playlist)](https://www.youtube.com/playlist?list=PL51gEhIbWzJESLuGJUGkG2VZzrPO0H0Rc)
 - [Evaluating AI Agents - DeepLearning.AI](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/)
 - [LLMs as Operating Systems: Agent Memory - DeepLearning.AI](https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/)
-- [AI Agents in LangGraph - DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 - [AI Agentic Design Patterns with AutoGen - DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
-- [Multi AI Agent Systems with crewAI - DeepLearning.AI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
-- [Functions, Tools and Agents with LangChain - DeepLearning.AI](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
-- [Building Agentic RAG with LlamaIndex - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)
 - [Event-Driven Agentic Document Workflows - DeepLearning.AI](https://www.deeplearning.ai/short-courses/event-driven-agentic-document-workflows/)
 - [AI Agents Fundamentals In 21 Minutes (YouTube)](https://www.youtube.com/watch?v=qU3fmidNbJE)
 
@@ -279,12 +274,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ---
 
-## OWASP Top 10 for LLM Applications
-
-- [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-
----
-
 ## Adopting GenAI in Organizations
 
 - [Generative AI for Executives and Business Leaders Specialization - Coursera (IBM)](https://www.coursera.org/specializations/generative-ai-for-executives-and-business-leaders)
@@ -324,7 +313,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ## Courses
 
-- [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
 - [AI For Everyone by Andrew Ng (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
 - [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
 - [Machine Learning with Python (edX - IBM)](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
@@ -332,7 +320,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [CS231n: CNNs for Visual Recognition (Stanford)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ)
 - [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [NLP with Deep Learning - Stanford CS224n](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
-- [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/)
 - [CV, LLM, VLM Courses - PixelBank](https://pixelbank.dev)
 
 ---
@@ -451,9 +438,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ## Interview Preparation
 
-- [Introduction to Machine Learning Interviews - Chip Huyen](https://huyenchip.com/ml-interviews-book/)
 - [ML Interviews MVP - GitHub](https://github.com/khangich/machine-learning-interview)
-- [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [ML System Design: 650 Case Studies - GitHub](https://github.com/mallahyari/ml-practical-usecases) — Real-world ML use cases from 100+ companies including Netflix, Airbnb, and Uber
 - [ML Coding questions - PixelBank](https://pixelbank.dev/collections)
 
