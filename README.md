@@ -119,9 +119,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
     - [Computer vision, LLM, VLM Courses - PixelBank](https://pixelbank.dev)
 
 6. **Learn MLOps**
-    - [Intro to MLOps](https://ml-ops.org/)
     - [Three Levels of ML Software](https://ml-ops.org/content/three-levels-of-ml-software)
-    - [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
 
 7. **Read Research Papers**
     - [ArXiv](https://arxiv.org/)
@@ -139,8 +137,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [3D Visualization of LLMs - Brendan Bycroft](http://bbycroft.net/llm) — Step-by-step 3D walkthrough of transformer execution
 
 **Learning Paths:**
-- [Beginner: Introduction to Generative AI - Google Skills](https://www.cloudskillsboost.google/paths/118)
-- [Intermediate: Gemini for Google Cloud](https://www.cloudskillsboost.google/paths/236)
 - [Advanced: Generative AI for Developers - Google Skills](https://www.cloudskillsboost.google/paths/183)
 
 **Coursera Courses:**
