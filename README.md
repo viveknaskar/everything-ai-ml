@@ -32,7 +32,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [AI Tools for Productivity](#ai-tools-for-productivity)
 - [Quantum Computing and PQC](#quantum-computing-and-pqc)
 - [AI Augmented SDLC](#ai-augmented-sdlc)
-- [Coming Innovations in LLMs and GenAI](#coming-innovations-in-llms-and-genai)
 - [Courses](#courses)
 - [Certifications](#certifications)
 - [Books](#books)
@@ -136,7 +135,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [The Illustrated Transformer - Jay Alammar](http://jalammar.github.io/illustrated-transformer/) — Definitive visual guide to the Transformer architecture
 - [3D Visualization of LLMs - Brendan Bycroft](http://bbycroft.net/llm) — Step-by-step 3D walkthrough of transformer execution
 
-**Learning Paths:**
 - [Advanced: Generative AI for Developers - Google Skills](https://www.cloudskillsboost.google/paths/183)
 
 **Coursera Courses:**
@@ -298,12 +296,6 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Generative AI for Software Development Specialization - DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-for-software-development/)
 - [AI-Powered Software Development - Coursera](https://www.coursera.org/specializations/ai-powered-software-development-certification)
 - [GitHub Copilot Fundamentals - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/copilot/)
-
----
-
-## Coming Innovations in LLMs and GenAI
-
-- [Google DeepMind Blog](https://deepmind.google/discover/blog/)
 
 ---
 
