@@ -131,6 +131,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [The Illustrated Transformer - Jay Alammar](http://jalammar.github.io/illustrated-transformer/) — Definitive visual guide to the Transformer architecture
 - [3D Visualization of LLMs - Brendan Bycroft](http://bbycroft.net/llm) — Step-by-step 3D walkthrough of transformer execution
 
+**Learning Paths:**
 - [Advanced: Generative AI for Developers - Google Skills](https://www.cloudskillsboost.google/paths/183)
 
 **Coursera Courses:**
@@ -301,10 +302,8 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
 - [Machine Learning with Python (edX - IBM)](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
 - [Reinforcement Learning Specialization (Coursera)](https://www.coursera.org/specializations/reinforcement-learning)
-- [CS231n: CNNs for Visual Recognition (Stanford)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ)
 - [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [NLP with Deep Learning - Stanford CS224n](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
-- [CV, LLM, VLM Courses - PixelBank](https://pixelbank.dev)
 
 ---
 
