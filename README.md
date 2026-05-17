@@ -423,6 +423,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 - [ML Interviews MVP - GitHub](https://github.com/khangich/machine-learning-interview)
 - [ML System Design: 650 Case Studies - GitHub](https://github.com/mallahyari/ml-practical-usecases) — Real-world ML use cases from 100+ companies including Netflix, Airbnb, and Uber
+- [AI Engineering from Scratch - GitHub](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [ML Coding questions - PixelBank](https://pixelbank.dev/collections)
 
 ---
