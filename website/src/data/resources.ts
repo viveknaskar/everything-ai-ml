@@ -566,6 +566,7 @@ export const sections: Section[] = [
       { title: "ML Interviews MVP – GitHub", url: "https://github.com/khangich/machine-learning-interview" },
       { title: "Designing Machine Learning Systems", url: "https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/" },
       { title: "ML System Design: 650 Case Studies – GitHub", url: "https://github.com/mallahyari/ml-practical-usecases", description: "Real-world ML use cases from 100+ companies including Netflix, Airbnb, and Uber" },
+      { title: "AI Engineering from Scratch – GitHub", url: "https://github.com/rohitg00/ai-engineering-from-scratch" },
       { title: "ML Coding Questions – PixelBank", url: "https://pixelbank.dev/collections" },
     ],
   },
