@@ -208,6 +208,7 @@ export const sections: Section[] = [
       { title: "Prompt Engineering – OpenAI API", url: "https://platform.openai.com/docs/guides/prompt-engineering" },
       { title: "ChatGPT Prompt Engineering for Developers – DeepLearning.AI", url: "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" },
       { title: "Google Prompting Essentials", url: "https://grow.google/prompting-essentials/" },
+      { title: "The Prompt Report: A Systematic Survey of Prompting Techniques", url: "https://arxiv.org/abs/2406.06608", description: "Comprehensive survey of 58 LLM prompting techniques with a unified taxonomy and vocabulary" },
     ],
   },
   {
