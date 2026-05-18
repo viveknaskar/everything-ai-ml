@@ -206,6 +206,7 @@ export const sections: Section[] = [
     resources: [
       { title: "Prompt Engineering Guide", url: "https://www.promptingguide.ai/", description: "Comprehensive guide to prompt engineering techniques" },
       { title: "Prompt Engineering – OpenAI API", url: "https://platform.openai.com/docs/guides/prompt-engineering" },
+      { title: "Prompt Engineering – OpenAI Developer Docs", url: "https://developers.openai.com/api/docs/guides/prompt-engineering", description: "Official OpenAI developer documentation on prompt engineering best practices" },
       { title: "ChatGPT Prompt Engineering for Developers – DeepLearning.AI", url: "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" },
       { title: "Google Prompting Essentials", url: "https://grow.google/prompting-essentials/" },
       { title: "The Prompt Report: A Systematic Survey of Prompting Techniques", url: "https://arxiv.org/abs/2406.06608", description: "Comprehensive survey of 58 LLM prompting techniques with a unified taxonomy and vocabulary" },
