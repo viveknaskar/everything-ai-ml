@@ -166,6 +166,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Google Prompting Essentials](https://grow.google/prompting-essentials/)
 - [The Prompt Report: A Systematic Survey of Prompting Techniques (arXiv)](https://arxiv.org/abs/2406.06608)
 - [Anthropic Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+- [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 
 ---
 

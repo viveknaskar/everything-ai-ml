@@ -210,6 +210,7 @@ export const sections: Section[] = [
       { title: "Google Prompting Essentials", url: "https://grow.google/prompting-essentials/" },
       { title: "The Prompt Report: A Systematic Survey of Prompting Techniques", url: "https://arxiv.org/abs/2406.06608", description: "Comprehensive survey of 58 LLM prompting techniques with a unified taxonomy and vocabulary" },
       { title: "Anthropic Prompt Engineering Interactive Tutorial", url: "https://github.com/anthropics/prompt-eng-interactive-tutorial", description: "Hands-on Jupyter notebook tutorial covering prompt engineering techniques for Claude" },
+      { title: "OpenAI Tokenizer", url: "https://platform.openai.com/tokenizer", description: "Interactive tool to visualize how text is tokenized and count tokens for OpenAI models" },
     ],
   },
   {
