@@ -163,6 +163,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Prompt Engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Prompt Engineering - OpenAI Developer Docs](https://developers.openai.com/api/docs/guides/prompt-engineering)
+- [Prompt Engineering Overview - Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
 - [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [Google Prompting Essentials](https://grow.google/prompting-essentials/)
 - [The Prompt Report: A Systematic Survey of Prompting Techniques (arXiv)](https://arxiv.org/abs/2406.06608)
