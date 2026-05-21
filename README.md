@@ -338,6 +338,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 - [Attention Is All You Need (Google)](https://arxiv.org/pdf/1706.03762)
 - [Language Models are Few-Shot Learners - GPT-3 (OpenAI)](https://arxiv.org/abs/2005.14165)
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (Google)](https://arxiv.org/abs/2201.11903)
 - [DeepSeek R1: Incentivizing Reasoning Capability in LLMs](https://arxiv.org/pdf/2501.12948)
 - [Monolith: Real Time Recommendation System (TikTok/ByteDance)](https://arxiv.org/pdf/2209.07663)
 - [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/pdf/1810.04805)

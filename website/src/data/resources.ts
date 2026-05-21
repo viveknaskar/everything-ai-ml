@@ -449,6 +449,7 @@ export const sections: Section[] = [
     resources: [
       { title: "Attention Is All You Need (Google)", url: "https://arxiv.org/pdf/1706.03762" },
       { title: "Language Models are Few-Shot Learners – GPT-3 (OpenAI)", url: "https://arxiv.org/abs/2005.14165", description: "Introduces GPT-3, a 175B parameter model demonstrating strong few-shot learning across NLP tasks" },
+      { title: "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (Google)", url: "https://arxiv.org/abs/2201.11903", description: "Introduces chain-of-thought prompting, showing intermediate reasoning steps significantly improve LLM performance on complex tasks" },
       { title: "DeepSeek R1: Incentivizing Reasoning Capability in LLMs", url: "https://arxiv.org/pdf/2501.12948" },
       { title: "Monolith: Real Time Recommendation System (TikTok/ByteDance)", url: "https://arxiv.org/pdf/2209.07663" },
       { title: "BERT: Pre-training of Deep Bidirectional Transformers", url: "https://arxiv.org/pdf/1810.04805" },
