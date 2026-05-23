@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "gen:readme": "node scripts/generate-readme.mjs",
+    "check:readme": "node scripts/generate-readme.mjs --check"
   },
   "dependencies": {
     "next": "^15.5.14",
