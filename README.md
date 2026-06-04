@@ -248,6 +248,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 ## Agentic AI
 
 - [Agent Skills – Open Standard for Extending AI Agent Capabilities](https://agentskills.io/home) — Open standard for building reusable skills that extend AI agents across 30+ platforms including Claude, GitHub Copilot, and OpenAI Codex
+- [Caveman – Token-Saving Output Compression Skill](https://github.com/juliusbrussee/caveman) — Agent skill that compresses AI output ~65% with terse, fragment-based responses while preserving reasoning; works across Claude Code, Codex, Gemini, Cursor and 30+ agents
 - [Introduction to Agent2Agent (A2A) Protocol – Google Cloud](https://www.youtube.com/watch?v=Fbr_Solax1w)
 - [AI Agents Series – FuturMinds (YouTube Playlist)](https://www.youtube.com/playlist?list=PL51gEhIbWzJESLuGJUGkG2VZzrPO0H0Rc)
 - [Evaluating AI Agents – DeepLearning.AI](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/)
