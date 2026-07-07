@@ -186,6 +186,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Prompt Engineering – OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Prompt Engineering – OpenAI Developer Docs](https://developers.openai.com/api/docs/guides/prompt-engineering) — Official OpenAI developer documentation on prompt engineering best practices
 - [Prompt Engineering Overview – Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) — Official Anthropic guide to prompt engineering for Claude
+- [Claude Code Prompt Library](https://code.claude.com/docs/en/prompt-library) — Copy-paste prompt examples for Claude Code, tagged by task and role
 - [ChatGPT Prompt Engineering for Developers – DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [Google Prompting Essentials](https://grow.google/prompting-essentials/)
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608) — Comprehensive survey of 58 LLM prompting techniques with a unified taxonomy and vocabulary
@@ -250,6 +251,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Agent Skills – Open Standard for Extending AI Agent Capabilities](https://agentskills.io/home) — Open standard for building reusable skills that extend AI agents across 30+ platforms including Claude, GitHub Copilot, and OpenAI Codex
 - [Caveman – Token-Saving Output Compression Skill](https://github.com/juliusbrussee/caveman) — Agent skill that compresses AI output ~65% with terse, fragment-based responses while preserving reasoning; works across Claude Code, Codex, Gemini, Cursor and 30+ agents
 - [Ponytail – Minimal-Code Agent Skill](https://github.com/DietrichGebert/ponytail) — Agent skill enforcing a 'lazy senior developer' philosophy: check YAGNI, codebase, stdlib, platform and existing deps before writing new code (~54% less code); works across 16+ agents
+- [Omnigraph – Lakehouse Graph Database for Agents](https://github.com/ModernRelay/omnigraph) — Operational state and coordination layer for agent fleets with multimodal retrieval, Git-style branching, and object-storage-native deployment
 - [Introduction to Agent2Agent (A2A) Protocol – Google Cloud](https://www.youtube.com/watch?v=Fbr_Solax1w)
 - [AI Agents Series – FuturMinds (YouTube Playlist)](https://www.youtube.com/playlist?list=PL51gEhIbWzJESLuGJUGkG2VZzrPO0H0Rc)
 - [Evaluating AI Agents – DeepLearning.AI](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/)
