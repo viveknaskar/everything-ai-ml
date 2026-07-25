@@ -252,6 +252,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Caveman – Token-Saving Output Compression Skill](https://github.com/juliusbrussee/caveman) — Agent skill that compresses AI output ~65% with terse, fragment-based responses while preserving reasoning; works across Claude Code, Codex, Gemini, Cursor and 30+ agents
 - [Ponytail – Minimal-Code Agent Skill](https://github.com/DietrichGebert/ponytail) — Agent skill enforcing a 'lazy senior developer' philosophy: check YAGNI, codebase, stdlib, platform and existing deps before writing new code (~54% less code); works across 16+ agents
 - [Omnigraph – Lakehouse Graph Database for Agents](https://github.com/ModernRelay/omnigraph) — Operational state and coordination layer for agent fleets with multimodal retrieval, Git-style branching, and object-storage-native deployment
+- [Claude SEO – AI-Powered SEO Audit Skill](https://github.com/AgricIDaniel/claude-seo) — Open-source Claude Code skill that runs 25 sub-skills and 18 parallel agents to audit technical SEO, content quality, schema markup, and AI search optimization with falsifiable recommendations
 - [Introduction to Agent2Agent (A2A) Protocol – Google Cloud](https://www.youtube.com/watch?v=Fbr_Solax1w)
 - [AI Agents Series – FuturMinds (YouTube Playlist)](https://www.youtube.com/playlist?list=PL51gEhIbWzJESLuGJUGkG2VZzrPO0H0Rc)
 - [Evaluating AI Agents – DeepLearning.AI](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/)
