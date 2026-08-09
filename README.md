@@ -6,7 +6,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 > **Browse the interactive cheatsheet:** [viveknaskar.github.io/everything-ai-ml](https://viveknaskar.github.io/everything-ai-ml/)
 
-> Stay updated with the latest in AI — [SavvyMonk Newsletter](https://savvymonk.beehiiv.com/)
+> Stay updated with the latest in AI — [SavvyMonk Newsletter](https://www.savvymonknewsletter.com/)
 
 <!-- AUTOGEN:START — do not edit by hand; generated from website/src/data/resources.ts via `npm run gen:readme` -->
 
