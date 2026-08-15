@@ -289,6 +289,7 @@ export const sections: Section[] = [
     title: "Agentic AI",
     icon: "🤖",
     resources: [
+      { title: "Agent QA – Self-Improving QA Agent", url: "https://github.com/vostride/agent-qa", description: "Open-source self-improving QA agent that runs natural-language tests across web and mobile applications with persistent memory and self-healing", badge: "NEW" },
       { title: "Zero – Open-Source Coding Agent", url: "https://github.com/gitlawb/zero", description: "The coding agent that answers to you, your model, your machine, your rules", badge: "NEW" },
       { title: "Agent Skills – Open Standard for Extending AI Agent Capabilities", url: "https://agentskills.io/home", description: "Open standard for building reusable skills that extend AI agents across 30+ platforms including Claude, GitHub Copilot, and OpenAI Codex", badge: "NEW" },
       { title: "Caveman – Token-Saving Output Compression Skill", url: "https://github.com/juliusbrussee/caveman", description: "Agent skill that compresses AI output ~65% with terse, fragment-based responses while preserving reasoning; works across Claude Code, Codex, Gemini, Cursor and 30+ agents", badge: "NEW" },

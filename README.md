@@ -248,6 +248,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ## Agentic AI
 
+- [Agent QA – Self-Improving QA Agent](https://github.com/vostride/agent-qa) — Open-source self-improving QA agent that runs natural-language tests across web and mobile applications with persistent memory and self-healing
 - [Zero – Open-Source Coding Agent](https://github.com/gitlawb/zero) — The coding agent that answers to you, your model, your machine, your rules
 - [Agent Skills – Open Standard for Extending AI Agent Capabilities](https://agentskills.io/home) — Open standard for building reusable skills that extend AI agents across 30+ platforms including Claude, GitHub Copilot, and OpenAI Codex
 - [Caveman – Token-Saving Output Compression Skill](https://github.com/juliusbrussee/caveman) — Agent skill that compresses AI output ~65% with terse, fragment-based responses while preserving reasoning; works across Claude Code, Codex, Gemini, Cursor and 30+ agents
