@@ -37,7 +37,7 @@ export default function Header({ onSearch }: HeaderProps) {
       <div className="max-w-screen-2xl mx-auto px-4 md:px-6 h-16 flex items-center gap-4">
         {/* Logo */}
         <a
-          href="/"
+          href={`${basePath}/`}
           className="flex items-center gap-2 shrink-0 group"
         >
           <img src={`${basePath}/logo.png`} alt="Everything AI/ML logo" className="w-8 h-8 object-contain" />
