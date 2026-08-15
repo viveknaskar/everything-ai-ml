@@ -1,0 +1,14 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "everything-ai-ml",
+	"compatibility_date": "2026-06-21",
+	"observability": {
+		"enabled": true
+	},
+	"assets": {
+		"directory": "out"
+	},
+	"routes": [
+		{ "pattern": "everythingaiml.thedeveloperstory.com", "custom_domain": true }
+	]
+}
