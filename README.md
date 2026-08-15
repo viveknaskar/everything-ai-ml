@@ -38,7 +38,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Tools and Frameworks](#tools-and-frameworks)
 - [YouTube Channels](#youtube-channels)
 - [Research Blogs](#research-blogs)
-- [Applied ML Blogs](#applied-ml-blogs)
+- [Applied AI/ML Blogs](#applied-aiml-blogs)
 - [Communities](#communities)
 - [Practice Problems](#practice-problems)
 - [Interview Preparation](#interview-preparation)
@@ -435,8 +435,9 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 
 ---
 
-## Applied ML Blogs
+## Applied AI/ML Blogs
 
+- [Everything You Need To Know About AI Agent Engineering, In Brief](https://thedeveloperstory.com/2026/06/24/everything-you-need-to-know-about-ai-agent-engineering-in-brief/) — Explains how Context, Memory, and Harness Engineering differ for AI agents, through one simple analogy
 - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/) — AWS's blog on applied machine learning and ML services
 - [NVIDIA Deep Learning Blog](https://blogs.nvidia.com/blog/category/deep-learning/) — NVIDIA's blog covering deep learning research and applications
 - [AirBnB Engineering – AI & ML](https://medium.com/airbnb-engineering/ai/home) — Airbnb Engineering's posts on applied AI and ML

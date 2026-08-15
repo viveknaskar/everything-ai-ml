@@ -516,9 +516,10 @@ export const sections: Section[] = [
   },
   {
     id: "applied-blogs",
-    title: "Applied ML Blogs",
+    title: "Applied AI/ML Blogs",
     icon: "📝",
     resources: [
+      { title: "Everything You Need To Know About AI Agent Engineering, In Brief", url: "https://thedeveloperstory.com/2026/06/24/everything-you-need-to-know-about-ai-agent-engineering-in-brief/", description: "Explains how Context, Memory, and Harness Engineering differ for AI agents, through one simple analogy" },
       { title: "AWS Machine Learning Blog", url: "https://aws.amazon.com/blogs/machine-learning/", description: "AWS's blog on applied machine learning and ML services" },
       { title: "NVIDIA Deep Learning Blog", url: "https://blogs.nvidia.com/blog/category/deep-learning/", description: "NVIDIA's blog covering deep learning research and applications" },
       { title: "AirBnB Engineering – AI & ML", url: "https://medium.com/airbnb-engineering/ai/home", description: "Airbnb Engineering's posts on applied AI and ML" },
