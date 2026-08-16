@@ -5,7 +5,7 @@ import Header from "@/components/Header";
 import Sidebar from "@/components/Sidebar";
 import ResourceSection from "@/components/ResourceSection";
 import { sections } from "@/data/resources";
-import trafficHistory from "@/data/traffic-history.json";
+import visitorCount from "@/data/visitor-count.json";
 
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState("");
@@ -22,7 +22,7 @@ export default function Home() {
     0
   );
 
-  const totalGithubViews = trafficHistory.reduce((acc, day) => acc + day.views, 0);
+  const totalGithubVisitors = visitorCount.count;
 
   return (
     <div style={{ minHeight: "100vh", background: "var(--bg-primary)" }}>
@@ -113,9 +113,9 @@ export default function Home() {
                   <span className="flex items-center gap-1.5">
                     <span style={{ color: "#f472b6" }}>◆</span>
                     <strong style={{ color: "var(--text-secondary)" }}>
-                      {totalGithubViews.toLocaleString()}+
+                      {totalGithubVisitors.toLocaleString()}+
                     </strong>{" "}
-                    GitHub views
+                    GitHub visitors
                   </span>
                 </div>
               </div>

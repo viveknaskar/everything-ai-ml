@@ -9,6 +9,11 @@
  * re-runs idempotent and lets "today"'s count self-correct as the day
  * progresses.
  *
+ * It also snapshots the cumulative visitor-badge count (the same
+ * visitor-badge.laobi.icu counter embedded in the README) into
+ * website/src/data/visitor-count.json, since that's the only source for an
+ * all-time total — GitHub's own API never exposes more than 14 days.
+ *
  * Usage:
  *   GITHUB_TOKEN=... node scripts/update-traffic.mjs
  */
@@ -18,6 +23,8 @@ import { dirname, join } from "node:path";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_PATH = join(__dirname, "..", "src", "data", "traffic-history.json");
+const VISITOR_COUNT_PATH = join(__dirname, "..", "src", "data", "visitor-count.json");
+const VISITOR_BADGE_PAGE_ID = "viveknaskar.everything-ai-ml";
 
 const repo = process.env.GITHUB_REPOSITORY ?? "viveknaskar/everything-ai-ml";
 const token = process.env.GITHUB_TOKEN;
@@ -55,3 +62,28 @@ const merged = [...byDate.values()].sort((a, b) => a.date.localeCompare(b.date))
 
 writeFileSync(DATA_PATH, JSON.stringify(merged, null, 2) + "\n");
 console.log(`Updated traffic history: ${merged.length} days recorded.`);
+
+const badgeRes = await fetch(
+  `https://visitor-badge.laobi.icu/badge?page_id=${VISITOR_BADGE_PAGE_ID}`
+);
+
+if (!badgeRes.ok) {
+  console.error(`Visitor badge request failed: ${badgeRes.status} ${badgeRes.statusText}`);
+  process.exit(1);
+}
+
+const badgeSvg = await badgeRes.text();
+const match = badgeSvg.match(/<text[^>]*>(\d+)<\/text>/);
+
+if (!match) {
+  console.error("Could not parse visitor count from badge SVG");
+  process.exit(1);
+}
+
+const visitorCount = {
+  count: Number(match[1]),
+  updatedAt: new Date().toISOString().slice(0, 10),
+};
+
+writeFileSync(VISITOR_COUNT_PATH, JSON.stringify(visitorCount, null, 2) + "\n");
+console.log(`Updated visitor count: ${visitorCount.count}`);
