@@ -32,3 +32,4 @@ jobs:
           accountId: b3df58c36f7041a372572eb8d7246837
           workingDirectory: website
           command: deploy
+          wranglerVersion: "4"
