@@ -5,6 +5,7 @@ import Header from "@/components/Header";
 import Sidebar from "@/components/Sidebar";
 import ResourceSection from "@/components/ResourceSection";
 import { sections } from "@/data/resources";
+import trafficHistory from "@/data/traffic-history.json";
 
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState("");
@@ -20,6 +21,8 @@ export default function Home() {
       (s.subsections?.reduce((a, sub) => a + sub.resources.length, 0) ?? 0),
     0
   );
+
+  const totalGithubViews = trafficHistory.reduce((acc, day) => acc + day.views, 0);
 
   return (
     <div style={{ minHeight: "100vh", background: "var(--bg-primary)" }}>
@@ -106,6 +109,13 @@ export default function Home() {
                   <span className="flex items-center gap-1.5">
                     <span style={{ color: "#60a5fa" }}>◆</span>
                     Beginner → Advanced learning paths
+                  </span>
+                  <span className="flex items-center gap-1.5">
+                    <span style={{ color: "#f472b6" }}>◆</span>
+                    <strong style={{ color: "var(--text-secondary)" }}>
+                      {totalGithubViews.toLocaleString()}+
+                    </strong>{" "}
+                    GitHub views
                   </span>
                 </div>
               </div>
