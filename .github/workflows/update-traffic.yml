@@ -22,7 +22,7 @@ jobs:
 
       - name: Fetch and merge traffic data
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
         run: node website/scripts/update-traffic.mjs
 
       - name: Commit updated traffic history
