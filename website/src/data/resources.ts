@@ -327,6 +327,7 @@ export const sections: Section[] = [
       { title: "OWASP Top 10 for Large Language Model Applications", url: "https://owasp.org/www-project-top-10-for-large-language-model-applications/", description: "OWASP's list of the top 10 security risks for LLM applications" },
       { title: "Google's Secure AI Framework (SAIF)", url: "https://safety.google/cybersecurity-advancements/saif/", description: "Google's framework for building AI systems securely" },
       { title: "The Dawn of Agentic AI in Security Operations – Google Cloud", url: "https://cloud.google.com/blog/products/identity-security/the-dawn-of-agentic-ai-in-security-operations-at-rsac-2025", description: "Google Cloud blog on agentic AI's role in security operations" },
+      { title: "Orca AI Incident Archive", url: "https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive", description: "Open database of real-world AI agent security incidents from January 2025 on, each record linked to a primary source and marked for confirmed harm vs. research demo" },
     ],
   },
   {

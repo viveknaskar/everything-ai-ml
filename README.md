@@ -282,6 +282,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) — OWASP's list of the top 10 security risks for LLM applications
 - [Google's Secure AI Framework (SAIF)](https://safety.google/cybersecurity-advancements/saif/) — Google's framework for building AI systems securely
 - [The Dawn of Agentic AI in Security Operations – Google Cloud](https://cloud.google.com/blog/products/identity-security/the-dawn-of-agentic-ai-in-security-operations-at-rsac-2025) — Google Cloud blog on agentic AI's role in security operations
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) — Open database of real-world AI agent security incidents from January 2025 on, each record linked to a primary source and marked for confirmed harm vs. research demo
 
 ---
 
