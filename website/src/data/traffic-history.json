@@ -228,5 +228,35 @@
     "date": "2026-09-23",
     "views": 33,
     "uniques": 26
+  },
+  {
+    "date": "2026-09-24",
+    "views": 40,
+    "uniques": 15
+  },
+  {
+    "date": "2026-09-25",
+    "views": 17,
+    "uniques": 10
+  },
+  {
+    "date": "2026-09-26",
+    "views": 11,
+    "uniques": 8
+  },
+  {
+    "date": "2026-09-27",
+    "views": 30,
+    "uniques": 19
+  },
+  {
+    "date": "2026-09-28",
+    "views": 32,
+    "uniques": 18
+  },
+  {
+    "date": "2026-09-29",
+    "views": 30,
+    "uniques": 22
   }
 ]
