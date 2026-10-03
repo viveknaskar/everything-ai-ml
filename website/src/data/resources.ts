@@ -305,6 +305,7 @@ export const sections: Section[] = [
       { title: "Multi AI Agent Systems with crewAI – DeepLearning.AI", url: "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/", description: "DeepLearning.AI short course on building multi-agent systems with crewAI" },
       { title: "Building Agentic RAG with LlamaIndex – DeepLearning.AI", url: "https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/", description: "DeepLearning.AI short course on building agentic RAG pipelines with LlamaIndex" },
       { title: "Event-Driven Agentic Document Workflows – DeepLearning.AI", url: "https://www.deeplearning.ai/short-courses/event-driven-agentic-document-workflows/", description: "DeepLearning.AI short course on event-driven agentic document processing" },
+      { title: "YYLO – Open-Source Coding-Agent Orchestrator", url: "https://github.com/yylo-dev/yylo", description: "Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries" },
     ],
   },
   {
