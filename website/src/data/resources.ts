@@ -306,6 +306,7 @@ export const sections: Section[] = [
       { title: "Building Agentic RAG with LlamaIndex – DeepLearning.AI", url: "https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/", description: "DeepLearning.AI short course on building agentic RAG pipelines with LlamaIndex" },
       { title: "Event-Driven Agentic Document Workflows – DeepLearning.AI", url: "https://www.deeplearning.ai/short-courses/event-driven-agentic-document-workflows/", description: "DeepLearning.AI short course on event-driven agentic document processing" },
       { title: "YYLO – Open-Source Coding-Agent Orchestrator", url: "https://github.com/yylo-dev/yylo", description: "Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries" },
+      { title: "YYLO Benchmark – Trusted-Host Experiment Runner", url: "https://github.com/yylo-dev/yylo-benchmark", description: "Thin trusted-host experiment runner for historical tasks, supplied coding prompts, and workflows; compare models, harnesses and configurations, and evaluate retained outputs with different checks or judges later" },
     ],
   },
   {

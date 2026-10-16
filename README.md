@@ -265,6 +265,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Building Agentic RAG with LlamaIndex – DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) — DeepLearning.AI short course on building agentic RAG pipelines with LlamaIndex
 - [Event-Driven Agentic Document Workflows – DeepLearning.AI](https://www.deeplearning.ai/short-courses/event-driven-agentic-document-workflows/) — DeepLearning.AI short course on event-driven agentic document processing
 - [YYLO – Open-Source Coding-Agent Orchestrator](https://github.com/yylo-dev/yylo) — Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries
+- [YYLO Benchmark – Trusted-Host Experiment Runner](https://github.com/yylo-dev/yylo-benchmark) — Thin trusted-host experiment runner for historical tasks, supplied coding prompts, and workflows; compare models, harnesses and configurations, and evaluate retained outputs with different checks or judges later
 
 ---
 
