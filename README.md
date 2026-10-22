@@ -265,6 +265,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Building Agentic RAG with LlamaIndex – DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) — DeepLearning.AI short course on building agentic RAG pipelines with LlamaIndex
 - [Event-Driven Agentic Document Workflows – DeepLearning.AI](https://www.deeplearning.ai/short-courses/event-driven-agentic-document-workflows/) — DeepLearning.AI short course on event-driven agentic document processing
 - [YYLO – Open-Source Coding-Agent Orchestrator](https://github.com/yylo-dev/yylo) — Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries
+- [Orbi – Open-Source Coding Agent for GitHub Issues](https://github.com/orbi-build/orbi) — Self-hostable (AGPL-3.0) agent that implements labeled GitHub Issues in isolated worktrees, runs tests, opens PRs, and merges after a separate AI review
 
 ---
 
