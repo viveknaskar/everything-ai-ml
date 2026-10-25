@@ -307,6 +307,7 @@ export const sections: Section[] = [
       { title: "Event-Driven Agentic Document Workflows – DeepLearning.AI", url: "https://www.deeplearning.ai/short-courses/event-driven-agentic-document-workflows/", description: "DeepLearning.AI short course on event-driven agentic document processing" },
       { title: "YYLO – Open-Source Coding-Agent Orchestrator", url: "https://github.com/yylo-dev/yylo", description: "Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries" },
       { title: "Orbi – Open-Source Coding Agent for GitHub Issues", url: "https://github.com/orbi-build/orbi", description: "Self-hostable (AGPL-3.0) agent that implements labeled GitHub Issues in isolated worktrees, runs tests, opens PRs, and merges after a separate AI review" },
+      { title: "deed.page – Hosting for AI Coding Agents", url: "https://deed.page", description: "Lets an agent publish the HTML it builds to a public HTTPS link with one HTTP PUT or a remote MCP server, then update or delete it later with the owner token; MIT agent skill for Claude Code, Codex, Cursor and others" },
     ],
   },
   {

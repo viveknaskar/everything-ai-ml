@@ -266,6 +266,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Event-Driven Agentic Document Workflows – DeepLearning.AI](https://www.deeplearning.ai/short-courses/event-driven-agentic-document-workflows/) — DeepLearning.AI short course on event-driven agentic document processing
 - [YYLO – Open-Source Coding-Agent Orchestrator](https://github.com/yylo-dev/yylo) — Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries
 - [Orbi – Open-Source Coding Agent for GitHub Issues](https://github.com/orbi-build/orbi) — Self-hostable (AGPL-3.0) agent that implements labeled GitHub Issues in isolated worktrees, runs tests, opens PRs, and merges after a separate AI review
+- [deed.page – Hosting for AI Coding Agents](https://deed.page) — Lets an agent publish the HTML it builds to a public HTTPS link with one HTTP PUT or a remote MCP server, then update or delete it later with the owner token; MIT agent skill for Claude Code, Codex, Cursor and others
 
 ---
 
