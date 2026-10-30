@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "gen:readme": "node scripts/generate-readme.mjs",
-    "check:readme": "node scripts/generate-readme.mjs --check"
+    "check:readme": "node scripts/generate-readme.mjs --check",
+    "test": "vitest run"
   },
   "dependencies": {
     "next": "^15.5.14",
@@ -22,6 +23,7 @@
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.1",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^3.2.7"
   }
 }
