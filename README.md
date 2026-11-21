@@ -113,6 +113,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [Practical Deep Learning for Coders – fast.ai](https://course.fast.ai/) — fast.ai's hands-on deep learning course for coders
 - [Structured ML Projects – Coursera](https://www.coursera.org/learn/machine-learning-projects) — Andrew Ng's course on structuring machine learning projects
 - [Build GPT from Scratch – Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY) — Andrej Karpathy's video walkthrough building a GPT model from scratch
+- [AI Engineer Portfolio Projects – GitHub](https://github.com/landedjobs/ai-engineer-portfolio-projects) — 86 AI engineering project ideas with step-by-step build guides for RAG, agents, MCP, evals and fine-tuning
 
 **5. Specialize:**
 
@@ -492,6 +493,8 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [ML System Design: 650 Case Studies – GitHub](https://github.com/mallahyari/ml-practical-usecases) — Real-world ML use cases from 100+ companies including Netflix, Airbnb, and Uber
 - [AI Engineering from Scratch – GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) — GitHub repo teaching AI engineering concepts from first principles
 - [ML Coding Questions – PixelBank](https://pixelbank.dev/collections) — PixelBank's collection of ML coding interview questions
+- [AI Engineer Interview – GitHub](https://github.com/landedjobs/awesome-ai-engineer-interview) — AI engineer interview prep: rounds, questions, and company guides for OpenAI, Anthropic, DeepMind and more
+- [AI System Design Interview – GitHub](https://github.com/landedjobs/ai-system-design-interview) — A framework, reference numbers, and 15 worked designs for the AI system design round
 
 <!-- AUTOGEN:END -->
 
