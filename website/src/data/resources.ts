@@ -105,6 +105,7 @@ export const sections: Section[] = [
           { title: "Practical Deep Learning for Coders – fast.ai", url: "https://course.fast.ai/", description: "fast.ai's hands-on deep learning course for coders" },
           { title: "Structured ML Projects – Coursera", url: "https://www.coursera.org/learn/machine-learning-projects", description: "Andrew Ng's course on structuring machine learning projects" },
           { title: "Build GPT from Scratch – Karpathy", url: "https://www.youtube.com/watch?v=kCc8FmEb1nY", description: "Andrej Karpathy's video walkthrough building a GPT model from scratch" },
+          { title: "AI Engineer Portfolio Projects – GitHub", url: "https://github.com/landedjobs/ai-engineer-portfolio-projects", description: "86 AI engineering project ideas with step-by-step build guides for RAG, agents, MCP, evals and fine-tuning" },
         ],
       },
       {
@@ -587,6 +588,8 @@ export const sections: Section[] = [
       { title: "ML System Design: 650 Case Studies – GitHub", url: "https://github.com/mallahyari/ml-practical-usecases", description: "Real-world ML use cases from 100+ companies including Netflix, Airbnb, and Uber" },
       { title: "AI Engineering from Scratch – GitHub", url: "https://github.com/rohitg00/ai-engineering-from-scratch", description: "GitHub repo teaching AI engineering concepts from first principles" },
       { title: "ML Coding Questions – PixelBank", url: "https://pixelbank.dev/collections", description: "PixelBank's collection of ML coding interview questions" },
+      { title: "AI Engineer Interview – GitHub", url: "https://github.com/landedjobs/awesome-ai-engineer-interview", description: "AI engineer interview prep: rounds, questions, and company guides for OpenAI, Anthropic, DeepMind and more" },
+      { title: "AI System Design Interview – GitHub", url: "https://github.com/landedjobs/ai-system-design-interview", description: "A framework, reference numbers, and 15 worked designs for the AI system design round" },
     ],
   },
 ];
