@@ -129,7 +129,7 @@ export default function Header({ onSearch }: HeaderProps) {
         {/* Right links */}
         <div className="flex items-center gap-2 shrink-0 ml-auto">
           <a
-            href="https://savvymonk.beehiiv.com/"
+            href="https://savvymonk.substack.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-all"

@@ -163,7 +163,7 @@ export default function Home() {
             <p>
               Stay updated →{" "}
               <a
-                href="https://savvymonk.beehiiv.com/"
+                href="https://savvymonk.substack.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:underline"
