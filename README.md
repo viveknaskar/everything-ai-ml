@@ -268,6 +268,7 @@ A curated collection of learning resources for Generative AI, Machine Learning, 
 - [YYLO – Open-Source Coding-Agent Orchestrator](https://github.com/yylo-dev/yylo) — Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries
 - [Orbi – Open-Source Coding Agent for GitHub Issues](https://github.com/orbi-build/orbi) — Self-hostable (AGPL-3.0) agent that implements labeled GitHub Issues in isolated worktrees, runs tests, opens PRs, and merges after a separate AI review
 - [deed.page – Hosting for AI Coding Agents](https://deed.page) — Lets an agent publish the HTML it builds to a public HTTPS link with one HTTP PUT or a remote MCP server, then update or delete it later with the owner token; MIT agent skill for Claude Code, Codex, Cursor and others
+- [Oh My Android – Android Emulator Control Panel with MCP Server](https://github.com/ateymoori/oh-my-android) — Free macOS app and built-in MCP server (18 tools) that lets Claude Code, Codex and Cursor see and drive the Android Emulator
 
 ---
 
