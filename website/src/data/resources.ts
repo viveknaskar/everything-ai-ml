@@ -309,6 +309,7 @@ export const sections: Section[] = [
       { title: "YYLO – Open-Source Coding-Agent Orchestrator", url: "https://github.com/yylo-dev/yylo", description: "Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries" },
       { title: "Orbi – Open-Source Coding Agent for GitHub Issues", url: "https://github.com/orbi-build/orbi", description: "Self-hostable (AGPL-3.0) agent that implements labeled GitHub Issues in isolated worktrees, runs tests, opens PRs, and merges after a separate AI review" },
       { title: "deed.page – Hosting for AI Coding Agents", url: "https://deed.page", description: "Lets an agent publish the HTML it builds to a public HTTPS link with one HTTP PUT or a remote MCP server, then update or delete it later with the owner token; MIT agent skill for Claude Code, Codex, Cursor and others" },
+      { title: "Oh My Android – Android Emulator Control Panel with MCP Server", url: "https://github.com/ateymoori/oh-my-android", description: "Free macOS app and built-in MCP server (18 tools) that lets Claude Code, Codex and Cursor see and drive the Android Emulator" },
     ],
   },
   {
